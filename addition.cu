@@ -63,4 +63,6 @@ int main() {
 
 // nvcc -o your_executable_name your_source_code.cu
 
-// nvcc -o vector_addition vector_addition.cu
+// nvcc -o vector_addition vector_addition.cu//compile
+//./vector_addition to run
+
