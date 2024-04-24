@@ -108,3 +108,5 @@ int main() {
     
     return 0;
 }
+//g++ -o parallel_sorting -fopenmp parallel_sorting.cpp
+//./parallel_sorting
