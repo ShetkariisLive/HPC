@@ -70,3 +70,5 @@ int main() {
 
     return 0;
 }
+//g++ -o parallel_mergesort -fopenmp parallel_mergesort.cpp
+//./parallel_mergesort
