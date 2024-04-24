@@ -29,6 +29,9 @@ public:
             for (int neighbor : adj[i]) {
                 cout << neighbor << " ";
             }
+
+//g++ -o parallel_graph_traversal -fopenmp parallel_graph_traversal.cpp
+//./parallel_graph_traversal
             cout << endl;
         }
     }
