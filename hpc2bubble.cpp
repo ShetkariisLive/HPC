@@ -41,3 +41,6 @@ int main() {
     }
     return 0;
 }
+
+//g++ -o parallel_bubble_sort -fopenmp parallel_bubble_sort.cpp
+//./parallel_bubble_sort
