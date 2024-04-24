@@ -62,3 +62,5 @@ int main() {
 
     return 0;
 }
+//g++ -o reductions -fopenmp reductions.cpp
+//./reductions
