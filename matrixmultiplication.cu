@@ -63,3 +63,5 @@ int main() {
 
     return 0;
 }
+//nvcc -o matrix_multiplication matrix_multiplication.cu//compile
+//./matrix_multiplication//run
