@@ -95,3 +95,6 @@ int main() {
 
     return 0;
 }
+//g++ -o parallel_graph_traversal -fopenmp parallel_graph_traversal.cpp //compile the code
+//./parallel_graph_traversal to run the code
+
